@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-    I am an Information Technology student and Digital Media & Web Technologies graduate.
-    I live at the intersection of development, design, and data. I envision myself contributing to teams who inform, empower, and drive real-world change. 
+My name is Skyler. I am an Information Technology student and Digital Media & Web Technologies graduate. 
+I live at the intersection of development, design, and data. I envision myself contributing to teams who inform, empower, and drive real-world change. 
 
 ### I am currently working on:
-
-     
 
      🍃 "NativeBloom" (Next.js, React, Tailwind, ShadCN UI, Typescript, Firebase): Discover native plants specific to your geographical region (via zip code) and learn about invasive species to avoid.
         Allow NativeBloom to empower you to make environmentally conscious landscaping choices that support local ecosystems, conserve water, and promote biodiversity.
@@ -40,14 +38,12 @@ Here are some ideas to get you started:
 #### I’m confident in my ability to integrate my professional skills across a range of disciplines, including full stack development, information architecture, news and television, social media, and multi-platform media like web, radio, print, illustration, design, marketing, and advertising.
 
 ### In my free time:
-
-        I never stop reading. James Baldwin is my favorite author. I listen to every genre of music under the sun; I've played alto and tenor saxophone since I was seven years old. I even played in a jazz band!
+ I never stop reading. James Baldwin is my favorite author. I listen to every genre of music under the sun; I've played alto and tenor saxophone since I was seven years old. I even played in a jazz band!
         I'm an award-nominated gun violence prevention activist who has worked with families from Parkland, Uvalde, Sandy Hook, Columbine, and many more. 
         I'm a big fan of art that pisses people off. I seek out people who, like me, forge trends, not merely react to them.
 
 ### 🔗 Connect with me!
-
-        I'm always seeking to network and collaborate. See something you like? Contact me. See something I should be doing differently? Contact me. 
+I'm always seeking to network and collaborate. See something you like? Contact me. See something I should be doing differently? Contact me. 
         Let's make something beautiful happen. [Visit my website and send me a message](https://futrellstudioportfolio.com/contact-futrell-studio-portfolio/). 
         I look forward to connecting with you.
         
