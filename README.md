@@ -33,14 +33,14 @@ I live at the intersection of development, design, and data. I envision myself c
         Visualize your sobriety timeline with recovery milestones and profile badges. Log relapses. Lean on your village.
         Contributions welcome.
 
-#### ⭐⭐ I envision myself contributing to teams that push boundaries, challenge the status quo, and confront pressing issues in bold, unprecedented ways. 
+⭐⭐ I envision myself contributing to teams that push boundaries, challenge the status quo, and confront pressing issues in bold, unprecedented ways. 
 
-#### ⭐⭐ I’m confident in my ability to integrate my professional skills across a range of disciplines, including full stack development, information architecture, news and television, social media, and multi-platform media like web, radio, print, illustration, design, marketing, and advertising.
+⭐⭐ I’m confident in my ability to integrate my professional skills across a range of disciplines, including full stack development, information architecture, news and television, social media, and multi-platform media like web, radio, print, illustration, design, marketing, and advertising.
 
-### In my free time:
- I never stop reading. James Baldwin is my favorite author. I listen to every genre of music under the sun; I've played alto and tenor saxophone since I was seven years old. I even played in a jazz band!
-        I'm an award-nominated gun violence prevention activist who has worked with families from Parkland, Uvalde, Sandy Hook, Columbine, and many more. 
-        I'm a big fan of art that pisses people off. I seek out people who, like me, forge trends, not merely react to them.
+### 👀 In my free time:
+ I never stop reading. James Baldwin is my favorite author. I listen to every genre of music under the sun; I've played alto and tenor saxophone since I was seven years old. I even played in a jazz band! 🎷
+        I'm an award-nominated gun violence prevention activist who has worked with families from Parkland, Uvalde, Sandy Hook, Columbine, and many more. ❤️‍🩹
+        I'm a big fan of art that pisses people off. I seek out people who, like me, forge trends, not merely react to them. 🔥
 
 ### 🔗 Connect with me!
 I'm always seeking to network and collaborate. See something you like? Contact me. See something I should be doing differently? Contact me. 
