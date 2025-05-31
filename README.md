@@ -41,8 +41,9 @@ I live at the intersection of development, design, and data.
  I never stop reading. James Baldwin is my favorite author. I listen to every genre of music under the sun; I've played alto and tenor saxophone since I was seven years old. I even played in a jazz band! 🎷
         I'm an award-nominated gun violence prevention activist who has worked with families from Parkland, Uvalde, Sandy Hook, Columbine, and many more. ❤️‍🩹
         I'm a big fan of art that pisses people off. I seek out people who, like me, forge trends, not merely react to them. 🔥
-### Coolest people I've met through my work:
-Shepard Fairey, Julianne Moore, Laura Dern. 
+
+### 🌆 Cool people I've met through my work:
+Shepard Fairey, Julianne Moore, Laura Dern, and my idols in art, activism, and advertising: Manuel and Patricia Oliver.
 
 ### 🔗 Connect with me!
 I'm always seeking to network and collaborate. See something you like? Contact me. See something I should be doing differently? Contact me. 
