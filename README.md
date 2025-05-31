@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Skyler. I am an Information Technology student and Digital Media & Web Technologies graduate. 
-I live at the intersection of development, design, and data. I envision myself contributing to teams who inform, empower, and drive real-world change. 
+I live at the intersection of development, design, and data. 
 
 ### I am currently working on:
 
