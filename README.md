@@ -106,7 +106,7 @@ Attributions:
                     
  [Paint icon by Freepik on Flaticon](https://www.flaticon.com/free-icons/art-deco)
                     
- [Data icon created monkik on Flaticon](https://www.flaticon.com/free-icons/analysis)
+ [Data icon by Monkik on Flaticon](https://www.flaticon.com/free-icons/analysis)
 
 
     
