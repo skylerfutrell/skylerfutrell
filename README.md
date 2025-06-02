@@ -102,11 +102,11 @@ I look forward to connecting with you.
 
 Attributions:
 
- [Div tag created by Iconsmeet on Flaticon](https://www.flaticon.com/free-icons/html)
+ [Div icon by Iconsmeet on Flaticon](https://www.flaticon.com/free-icons/html)
                     
- [Paint icon created by Freepik on Flaticon](https://www.flaticon.com/free-icons/art-deco)
+ [Paint icon by Freepik on Flaticon](https://www.flaticon.com/free-icons/art-deco)
                     
-[Data icon created by monkik on Flaticon](https://www.flaticon.com/free-icons/analysis)
+ [Data icon created monkik on Flaticon](https://www.flaticon.com/free-icons/analysis)
 
 
     
