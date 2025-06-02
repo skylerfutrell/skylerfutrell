@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[BANNER](https://github.com/user-attachments/assets/ee822cc3-39bd-41f8-bd23-624d01928a05)
+![BANNER](https://github.com/user-attachments/assets/ee822cc3-39bd-41f8-bd23-624d01928a05)
 
 
 My name is Skyler. I am an Information Technology student and Digital Media & Web Technologies graduate. 
