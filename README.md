@@ -32,6 +32,7 @@ I live at the intersection of development, design, and data.
         Journal candidly with public/private diary toggle. Build community, chat with other users, find a sponsor, and locate resources to take charge of your sobriety. 
         Visualize your sobriety timeline with recovery milestones and profile badges. Log relapses. Lean on your village.
         Contributions welcome.
+### First and foremost...
 
 ⭐⭐ I envision myself contributing to teams that push boundaries, challenge the status quo, and confront pressing issues in bold, unprecedented ways. 
 
