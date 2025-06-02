@@ -38,7 +38,8 @@ Shepard Fairey, Julianne Moore, Laura Dern, and my idols in art, activism, and a
           
 I'm always seeking to network and collaborate. See something you like? Contact me. See something I should be doing differently? Contact me. 
         Let's make something beautiful happen. [Visit my website and send me a message](https://futrellstudioportfolio.com/contact-futrell-studio-portfolio/). 
-        I look forward to connecting with you. 
+        
+I look forward to connecting with you. 
         
 
 
