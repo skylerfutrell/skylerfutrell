@@ -39,6 +39,7 @@ I live at the intersection of development, design, and data.
 ![badge](https://img.shields.io/badge/bootstrap-purple)
 ![badge](https://img.shields.io/badge/laravel-red)
 ![badge](https://img.shields.io/badge/api_integration-orange)
+![badge](https://img.shields.io/badge/rest_api-blue)
 ![badge](https://img.shields.io/badge/windows-darkgreen)
 ![badge](https://img.shields.io/badge/macOS-white)
 ![badge](https://img.shields.io/badge/iOS-white)
@@ -72,6 +73,8 @@ I live at the intersection of development, design, and data.
 ![badge](https://img.shields.io/badge/c%23-blue)
 ![badge](https://img.shields.io/badge/java-green)
 ![badge](https://img.shields.io/badge/project%20management-purple)
+![badge](https://img.shields.io/badge/e--business-green)
+![badge](https://img.shields.io/badge/mongoDB-darkgreen)
 
 
 
