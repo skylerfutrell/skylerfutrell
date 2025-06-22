@@ -85,12 +85,21 @@ I live at the intersection of development, design, and data.
 ⭐⭐ I’m confident in my ability to integrate my professional skills across a range of disciplines, including full stack development, information architecture, news and television, social media, and multi-platform media like web, radio, print, illustration, design, marketing, and advertising.
 
 ### 👀 In my free time:
- I never stop reading. James Baldwin is my favorite author. I listen to every genre of music under the sun; I've played alto and tenor saxophone since I was seven years old. I even played in a jazz band! 🎷
-        I'm an award-nominated gun violence prevention activist who has worked with families from Parkland, Uvalde, Sandy Hook, Columbine, and many more. ❤️‍🩹
-        I'm a big fan of art that pisses people off. I seek out people who, like me, forge trends, not merely react to them. 🔥
+
+ I never stop reading. James Baldwin is my favorite author. 
+ 
+ I listen to every genre of music under the sun; I've played alto and tenor saxophone since I was seven years old. I even played in a jazz band! 🎷
+        
+I'm an award-nominated gun violence prevention activist who has worked with families from Parkland, Uvalde, Sandy Hook, Columbine, and many more. ❤️‍🩹
+
+I'm a big fan of art that pisses people off. I seek out people who, like me, forge trends, not merely react to them. 🔥
 
 ### 🌆 Cool people I've met through my work:
 Shepard Fairey, Julianne Moore, Laura Dern, and my idols in art, activism, and advertising: Manuel and Patricia Oliver.
+
+### 📄 Request my resume:
+
+[Email me](mailto:youremail@example.com?subject=Resume%20Request&body=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20work.%20Please%20send%20your%20resume.)
 
 ### 🔗 Connect with me! Languages: English, Español, Deutsch
           
