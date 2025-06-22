@@ -99,7 +99,7 @@ Shepard Fairey, Julianne Moore, Laura Dern, and my idols in art, activism, and a
 
 ### 📄 Request my resume:
 
-[Email me](mailto:youremail@example.com?subject=Resume%20Request&body=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20work.%20Please%20send%20your%20resume.)
+[I'm happy to share my resume. Email me](mailto:sfutrell00@outlook.com?subject=Resume%20Request&body=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20work.%20Please%20send%20your%20resume.)
 
 ### 🔗 Connect with me! Languages: English, Español, Deutsch
           
