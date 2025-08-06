@@ -96,6 +96,8 @@ Shepard Fairey, Julianne Moore, Laura Dern, and my idols in art, activism, and a
 
 I'm happy to share my resume. 👉 [Click here to send a resume request.](mailto:sfutrell00@outlook.com?subject=Resume%20Request&body=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20work.%20Please%20send%20your%20resume.)
 
+If the button does not work, ensure your device has a default email client enabled or [contact me directly.](https://futrellstudioportfolio.com/contact-futrell-studio-portfolio/)
+
 ### 🔗 Connect with me! Languages: English, Español, Deutsch
           
 I'm always seeking to network and collaborate. See something you like? Contact me. See something I should be doing differently? Contact me. 
