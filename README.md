@@ -2,7 +2,7 @@
 
 ![BANNER](https://github.com/user-attachments/assets/fb4b16c9-6a21-4256-abd6-509397f03f8f)
 
-My name is Skyler. I am an Information Technology student and Digital Media & Web Technologies graduate. 
+My name is Skyler. I am an Artificial Intelligence Development student and Digital Media & Web Technologies graduate. 
 I live at the intersection of development, design, and data. 
 
 ### I am currently working on:
