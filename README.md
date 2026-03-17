@@ -1,3 +1,10 @@
+# Skyler Futrell
+
+## Engineering Intelligent Systems with a Commitment to Ethical AI
+
+### Artificial Intelligence Development Student | AI Systems Builder | Ethical AI Research Interest
+
+
 Hi, I’m Skyler, an Artificial Intelligence Development student focused on building intelligent systems with Python, machine learning, and data systems. I am interested in developing AI applications that translate complex data into useful tools and insights. My academic interests include ethical AI, responsible system design, and the societal impact of emerging technologies.
 
 I aspire to contribute to teams that push boundaries, challenge the status quo, and address complex problems through innovative and forward-thinking solutions.
@@ -52,9 +59,9 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/accessibility-orange)
 
 
-### 📄 Request my resume:
 
-I'm happy to share my resume. 👉 [Click here to send a resume request.](mailto:sfutrell00@outlook.com?subject=Resume%20Request&body=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20work.%20Please%20send%20your%20resume.)
+
+[Request my resume](mailto:sfutrell00@outlook.com?subject=Resume%20Request&body=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20work.%20Please%20send%20your%20resume.)
 
 If the button does not work, ensure your device has a default email client enabled or [contact me directly.](https://futrellstudioportfolio.com/contact-futrell-studio-portfolio/)
 
