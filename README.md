@@ -147,7 +147,13 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Typography-teal)
 ![badge](https://img.shields.io/badge/Color%20Theory-darkblue)
 
-[Request my resume](mailto:sfutrell00@outlook.com?subject=Resume%20Request&body=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20work.%20Please%20send%20your%20resume.)
+### Blog
+
+I publish articles on ethical AI, responsible system design, and emerging developments in machine learning on Medium.
+
+[Medium](https://medium.com/@sfutrell00)
+
+###[Request my resume](mailto:sfutrell00@outlook.com?subject=Resume%20Request&body=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20work.%20Please%20send%20your%20resume.)
 
 If the button does not work, ensure your device has a default email client enabled or [contact me directly.](https://futrellstudioportfolio.com/contact-futrell-studio-portfolio/)
 
@@ -157,8 +163,8 @@ If the button does not work, ensure your device has a default email client enabl
 
 [LinkedIn](https://www.linkedin.com/in/sfutrell00/)
 
-[Medium](https://medium.com/@sfutrell00)
+---
 
-
+Skyler Futrell is an Artificial Intelligence Development student with a focus on building intelligent systems and an academic interest in ethical AI, responsible system design, and the societal impact of emerging technologies.
 
     
