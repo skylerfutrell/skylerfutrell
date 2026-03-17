@@ -14,9 +14,9 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 
 #### Artificial Intelligence and Machine Learning
 
-![badge](https://img.shields.io/badge/Machine-Learning-red)
-![badge](https://img.shields.io/badge/Deep-Learning-blue)
-![badge](https://img.shields.io/badge/Natural-Language-Processing-yellow)
+![badge](https://img.shields.io/badge/Machine%20Learning-red)
+![badge](https://img.shields.io/badge/Deep%20Learning-blue)
+![badge](https://img.shields.io/badge/Natural%20Language%20Processing-yellow)
 ![badge](https://img.shields.io/badge/Computer-Vision-green)
 ![badge](https://img.shields.io/badge/Generative-AI-purple)
 ![badge](https://img.shields.io/badge/Large-Language-Models-(LLMs)-gray)
