@@ -91,14 +91,37 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 
 #### APIs & Backend Development
 
-![badge](https://img.shields.io/badge/JavaScript-orange)
-![badge](https://img.shields.io/badge/TypeScript-red)
+![badge](https://img.shields.io/badge/REST%20APIs-orange)
+![badge](https://img.shields.io/badge/API%20Integration-red)
+![badge](https://img.shields.io/badge/JSON-yellow)
+![badge](https://img.shields.io/badge/Node.js-blue)
+![badge](https://img.shields.io/badge/Server-Side%20Development-white)
+![badge](https://img.shields.io/badge/Database%20Connectivity-red)
 
 #### Development Tools
 
+![badge](https://img.shields.io/badge/Git-purple)
+![badge](https://img.shields.io/badge/GitHub-blue)
+![badge](https://img.shields.io/badge/Visual%20Studio%20Code-red)
+![badge](https://img.shields.io/badge/Firebase-pink)
+![badge](https://img.shields.io/badge/Version%20Control-teal)
+![badge](https://img.shields.io/badge/Debugging-magenta)
+![badge](https://img.shields.io/badge/Testing-lime-green)
+
 #### Web and Interface Development
 
+
+![badge](https://img.shields.io/badge/Google%20Gemma-red)
+![badge](https://img.shields.io/badge/DeepSeek-pink)
+![badge](https://img.shields.io/badge/ElevenLabs-purple)
+
 #### CMS & Web Platforms
+
+![badge](https://img.shields.io/badge/AI-Assisted%20Development-purple)
+![badge](https://img.shields.io/badge/Anthropic%20Claude-blue)
+![badge](https://img.shields.io/badge/Google%20Gemma-red)
+![badge](https://img.shields.io/badge/DeepSeek-pink)
+![badge](https://img.shields.io/badge/ElevenLabs-purple)
 
 #### Design & Media
 
