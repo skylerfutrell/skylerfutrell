@@ -49,7 +49,7 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Hugging%20Face-blue)
 ![badge](https://img.shields.io/badge/Prompt%20Engineering-white)
 ![badge](https://img.shields.io/badge/LLM%20Integration-red)
-![badge](https://img.shields.io/badge/AI--Assisted%20Development-purple)
+![badge](https://img.shields.io/badge/AI-Assisted%20Development-purple)
 
 #### Data Science & Analytics
 
