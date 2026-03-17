@@ -149,9 +149,7 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 
 ### Blog
 
-I publish articles on ethical AI, responsible system design, and emerging developments in machine learning on Medium.
-
-[Medium](https://medium.com/@sfutrell00)
+[I publish articles on ethical AI, responsible system design, and emerging developments in machine learning on Medium.](https://medium.com/@sfutrell00)
 
 ### View My Resume
 
