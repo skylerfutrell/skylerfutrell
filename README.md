@@ -39,6 +39,8 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Seaborn-white)
 ![badge](https://img.shields.io/badge/OpenCV-yellow)
 
+---
+
 #### LLM & AI Platforms
 
 ![badge](https://img.shields.io/badge/OpenAI%20GPT%20Models-yellow)
@@ -50,6 +52,8 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Prompt%20Engineering-white)
 ![badge](https://img.shields.io/badge/LLM%20Integration-red)
 ![badge](https://img.shields.io/badge/AI-Assisted%20Development-purple)
+
+---
 
 #### Data Science & Analytics
 
@@ -68,6 +72,8 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/SQL-purple)
 ![badge](https://img.shields.io/badge/Python%20Data%20Ecosystem-white)
 
+---
+
 #### Programming Languages
 
 ![badge](https://img.shields.io/badge/Python-magenta)
@@ -80,7 +86,9 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/CSS-red)
 ![badge](https://img.shields.io/badge/PHP-pink)
 
-#### Frameworks & Libraries
+---
+
+##### Frameworks & Libraries
 
 ![badge](https://img.shields.io/badge/React-orange)
 ![badge](https://img.shields.io/badge/Next.js-blue)
@@ -88,6 +96,8 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Vue.js-white)
 ![badge](https://img.shields.io/badge/Laravel-yellow)
 ![badge](https://img.shields.io/badge/jQuery-magenta)
+
+---
 
 #### APIs & Backend Development
 
@@ -97,6 +107,8 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Node.js-blue)
 ![badge](https://img.shields.io/badge/Server-Side%20Development-white)
 ![badge](https://img.shields.io/badge/Database%20Connectivity-red)
+
+---
 
 #### Development Tools
 
@@ -108,6 +120,8 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Debugging-magenta)
 ![badge](https://img.shields.io/badge/Testing-limegreen)
 
+---
+
 #### Web and Interface Development
 
 ![badge](https://img.shields.io/badge/Tailwind-red)
@@ -117,6 +131,8 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/UX/UI%20Design-white)
 ![badge](https://img.shields.io/badge/Figma-yellow)
 
+---
+
 #### CMS & Web Platforms
 
 ![badge](https://img.shields.io/badge/WordPress-purple)
@@ -124,6 +140,7 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Search%20Engine%20Optimization-red)
 ![badge](https://img.shields.io/badge/Content%20Strategy-pink)
 
+---
 
 #### Design & Media
 ![badge](https://img.shields.io/badge/Adobe%20Creative%20Suite-red)
