@@ -46,7 +46,7 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Google%20Gemma-red)
 ![badge](https://img.shields.io/badge/DeepSeek-pink)
 ![badge](https://img.shields.io/badge/ElevenLabs-purple)
-![badge](https://img.shields.io/badge/Hugging%20Face-blue)
+![badge](https://img.shields.io/badge/Hugging%20Face-teal)
 ![badge](https://img.shields.io/badge/Prompt%20Engineering-white)
 ![badge](https://img.shields.io/badge/LLM%20Integration-red)
 ![badge](https://img.shields.io/badge/AI-Assisted%20Development-purple)
@@ -106,26 +106,29 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Firebase-pink)
 ![badge](https://img.shields.io/badge/Version%20Control-teal)
 ![badge](https://img.shields.io/badge/Debugging-magenta)
-![badge](https://img.shields.io/badge/Testing-lime-green)
+![badge](https://img.shields.io/badge/Testing-limegreen)
 
 #### Web and Interface Development
 
-
-![badge](https://img.shields.io/badge/Google%20Gemma-red)
-![badge](https://img.shields.io/badge/DeepSeek-pink)
-![badge](https://img.shields.io/badge/ElevenLabs-purple)
+![badge](https://img.shields.io/badge/Tailwind-red)
+![badge](https://img.shields.io/badge/Bootstrap-pink)
+![badge](https://img.shields.io/badge/Responsive%20Design-purple)
+![badge](https://img.shields.io/badge/Accessible&20Design-darkgreen)
+![badge](https://img.shields.io/badge/UX/UI%20Design-white)
+![badge](https://img.shields.io/badge/Figma-yellow)
 
 #### CMS & Web Platforms
 
-![badge](https://img.shields.io/badge/AI-Assisted%20Development-purple)
-![badge](https://img.shields.io/badge/Anthropic%20Claude-blue)
-![badge](https://img.shields.io/badge/Google%20Gemma-red)
-![badge](https://img.shields.io/badge/DeepSeek-pink)
-![badge](https://img.shields.io/badge/ElevenLabs-purple)
+![badge](https://img.shields.io/badge/WordPress-purple)
+![badge](https://img.shields.io/badge/Content%20Management%20Systems-blue)
+![badge](https://img.shields.io/badge/Search%20Engine%20Optimization-red)
+![badge](https://img.shields.io/badge/Content%20Strategy-pink)
+
 
 #### Design & Media
-
-
+![badge](https://img.shields.io/badge/Adobe%20Creative%20Suite-red)
+![badge](https://img.shields.io/badge/Typography-teal)
+![badge](https://img.shields.io/badge/Color%20Theory-darkblue)
 
 [Request my resume](mailto:sfutrell00@outlook.com?subject=Resume%20Request&body=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20work.%20Please%20send%20your%20resume.)
 
