@@ -1,6 +1,4 @@
-# Skyler Futrell
-
-## Engineering Intelligent Systems with a Commitment to Ethical AI
+# Skyler Futrell- Engineering Intelligent Systems with a Commitment to Ethical AI
 
 ### Artificial Intelligence Development Student | AI Systems Builder | Ethical AI Research Interest
 
