@@ -17,16 +17,16 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Machine%20Learning-red)
 ![badge](https://img.shields.io/badge/Deep%20Learning-blue)
 ![badge](https://img.shields.io/badge/Natural%20Language%20Processing-yellow)
-![badge](https://img.shields.io/badge/Computer-Vision-green)
-![badge](https://img.shields.io/badge/Generative-AI-purple)
-![badge](https://img.shields.io/badge/Large-Language-Models-(LLMs)-gray)
-![badge](https://img.shields.io/badge/Responsible-AI-black)
-![badge](https://img.shields.io/badge/Model-Training-teal)
-![badge](https://img.shields.io/badge/Data-Preprocessing-black)
-![badge](https://img.shields.io/badge/Feature-Engineering-green)
-![badge](https://img.shields.io/badge/Model-Evaluation-black)
-![badge](https://img.shields.io/badge/Predictive-Analytics-green)
-![badge](https://img.shields.io/badge/Algorithm-Optimization-teal)
+![badge](https://img.shields.io/badge/Computer%20Vision-green)
+![badge](https://img.shields.io/badge/Generative%20AI-purple)
+![badge](https://img.shields.io/badge/Large%20Language%20Models%20(LLMs)-gray)
+![badge](https://img.shields.io/badge/Responsible%20AI-black)
+![badge](https://img.shields.io/badge/Model%20Training-teal)
+![badge](https://img.shields.io/badge/Data%20Preprocessing-black)
+![badge](https://img.shields.io/badge/Feature%20Engineering-green)
+![badge](https://img.shields.io/badge/Model%20Evaluation-black)
+![badge](https://img.shields.io/badge/Predictive%20Analytics-green)
+![badge](https://img.shields.io/badge/Algorithm%20Optimization-teal)
 
 ##### Libraries and Tools
 
@@ -41,32 +41,32 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 
 #### LLM & AI Platforms
 
-![badge](https://img.shields.io/badge/OpenAI-GPT-Models-yellow)
-![badge](https://img.shields.io/badge/Anthropic-Claude-blue)
-![badge](https://img.shields.io/badge/Google-Gemma-red)
+![badge](https://img.shields.io/badge/OpenAI%20GPT%20Models-yellow)
+![badge](https://img.shields.io/badge/Anthropic%20Claude-blue)
+![badge](https://img.shields.io/badge/Google%20Gemma-red)
 ![badge](https://img.shields.io/badge/DeepSeek-pink)
 ![badge](https://img.shields.io/badge/ElevenLabs-purple)
-![badge](https://img.shields.io/badge/Hugging-Face-blue)
-![badge](https://img.shields.io/badge/Prompt-Engineering-white)
-![badge](https://img.shields.io/badge/LLM-Integration-red)
-![badge](https://img.shields.io/badgeAI-Assisted-Development-purple)
+![badge](https://img.shields.io/badge/Hugging%20Face-blue)
+![badge](https://img.shields.io/badge/Prompt%20Engineering-white)
+![badge](https://img.shields.io/badge/LLM%20Integration-red)
+![badge](https://img.shields.io/badgeAI--Assisted%20Development-purple)
 
 #### Data Science & Analytics
 
-![badge](https://img.shields.io/badge/Data-Analysis-orange)
-![badge](https://img.shields.io/badge/Data-Visualization-black)
-![badge](https://img.shields.io/badge/Statistical-Analysis-blue)
-![badge](https://img.shields.io/badge/Data-Modeling-purple)
-![badge](https://img.shields.io/badge/Data-Pipelines-gray)
-![badge](https://img.shields.io/badge/Data-Cleaning-orange)
+![badge](https://img.shields.io/badge/Data%20Analysis-orange)
+![badge](https://img.shields.io/badge/Data%20Visualization-black)
+![badge](https://img.shields.io/badge/Statistical%20Analysis-blue)
+![badge](https://img.shields.io/badge/Data%20Modeling-purple)
+![badge](https://img.shields.io/badge/Data%20Pipelines-gray)
+![badge](https://img.shields.io/badge/Data%20Cleaning-orange)
 
 ##### Tools
 
 ![badge](https://img.shields.io/badge/Pandas-yellow)
 ![badge](https://img.shields.io/badge/NumPy-green)
-![badge](https://img.shields.io/badge/Jupyter-Notebook-pink)
+![badge](https://img.shields.io/badge/Jupyter%20Notebook-pink)
 ![badge](https://img.shields.io/badge/SQL-purple)
-![badge](https://img.shields.io/badge/Python-Data-Ecosystem-white)
+![badge](https://img.shields.io/badge/Python%20Data%20Ecosystem-white)
 
 
 ![badge](https://img.shields.io/badge/color%20theory%20%26%20psychology-magenta)
