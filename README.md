@@ -153,7 +153,9 @@ I publish articles on ethical AI, responsible system design, and emerging develo
 
 [Medium](https://medium.com/@sfutrell00)
 
-### [Request my resume](mailto:sfutrell00@outlook.com?subject=Resume%20Request&body=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20work.%20Please%20send%20your%20resume.)
+### View My Resume
+
+[Request my resume](mailto:sfutrell00@outlook.com?subject=Resume%20Request&body=Hi%2C%20I%27m%20interested%20in%20learning%20more%20about%20your%20work.%20Please%20send%20your%20resume.)
 
 If the button does not work, ensure your device has a default email client enabled or [contact me directly.](https://futrellstudioportfolio.com/contact-futrell-studio-portfolio/)
 
