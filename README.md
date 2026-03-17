@@ -49,7 +49,7 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/Hugging%20Face-blue)
 ![badge](https://img.shields.io/badge/Prompt%20Engineering-white)
 ![badge](https://img.shields.io/badge/LLM%20Integration-red)
-![badge](https://img.shields.io/badgeAI--Assisted%20Development-purple)
+![badge](https://img.shields.io/badge/AI--Assisted%20Development-purple)
 
 #### Data Science & Analytics
 
@@ -68,10 +68,39 @@ I aspire to contribute to teams that push boundaries, challenge the status quo, 
 ![badge](https://img.shields.io/badge/SQL-purple)
 ![badge](https://img.shields.io/badge/Python%20Data%20Ecosystem-white)
 
+#### Programming Languages
 
-![badge](https://img.shields.io/badge/color%20theory%20%26%20psychology-magenta)
-![badge](https://img.shields.io/badge/accessibility-orange)
+![badge](https://img.shields.io/badge/Python-magenta)
+![badge](https://img.shields.io/badge/JavaScript-orange)
+![badge](https://img.shields.io/badge/TypeScript-red)
+![badge](https://img.shields.io/badge/Java-blue)
+![badge](https://img.shields.io/badge/C-yellow)
+![badge](https://img.shields.io/badge/SQL-green)
+![badge](https://img.shields.io/badge/HTML-purple)
+![badge](https://img.shields.io/badge/CSS-red)
+![badge](https://img.shields.io/badge/PHP-pink)
 
+#### Frameworks & Libraries
+
+![badge](https://img.shields.io/badge/React-orange)
+![badge](https://img.shields.io/badge/Next.js-blue)
+![badge](https://img.shields.io/badge/Node.js-darkgreen)
+![badge](https://img.shields.io/badge/Vue.js-white)
+![badge](https://img.shields.io/badge/Laravel-yellow)
+![badge](https://img.shields.io/badge/jQuery-magenta)
+
+#### APIs & Backend Development
+
+![badge](https://img.shields.io/badge/JavaScript-orange)
+![badge](https://img.shields.io/badge/TypeScript-red)
+
+#### Development Tools
+
+#### Web and Interface Development
+
+#### CMS & Web Platforms
+
+#### Design & Media
 
 
 
