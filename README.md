@@ -159,7 +159,7 @@ If the button does not work, ensure your device has a default email client enabl
 
 ### 🔗 Connect with me
           
-[Website](https://futrellstudioportfolio.com/contact-futrell-studio-portfolio/)
+[Website](https://futrellstudioportfolio.com/#contact/)
 
 [LinkedIn](https://www.linkedin.com/in/sfutrell00/)
 
